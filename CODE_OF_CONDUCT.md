@@ -1,0 +1,1 @@
+I embrace constructive discussions and foster a welcoming and respectful environment. Please be aware that I maintain a strict zero-tolerance policy for mean-spirited comments. Let's collaborate to improve **piz8** and create an even more enriching learning experience for all.

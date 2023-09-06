@@ -1,0 +1,14 @@
+# Ignore binary ROM and assembly files
+*.rom
+*.asm8
+
+# Ignore project-specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
